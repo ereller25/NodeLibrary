@@ -1,0 +1,26 @@
+NPM - Node Package Manager
+	command line tools to help install third party tools
+	predone code to help simplify tasks
+
+Express
+	NPM, helps with routing and templating
+	Download from npmjs.com
+
+Command line codes for install:
+
+	npm init //to start up the package.JSON file, to keep track of dependencies 
+
+	npm install express //to save to JSON file, will update it too
+
+	//third party can just do npm install to install all the dependencies being used
+
+Nodemon
+	For script monitoring to update in real time
+	CMD:
+		npm install -g nodemon
+		nodemon app.js //to run the app
+
+			
+
+
+

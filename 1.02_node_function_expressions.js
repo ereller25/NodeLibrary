@@ -13,3 +13,6 @@ var sayBye = function(){   //anonymous function
 function callFunction(fun){
 	fun();
 }
+
+//Call function and pass in a function parameter
+callFunction(sayBye);
